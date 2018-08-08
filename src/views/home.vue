@@ -40,9 +40,9 @@
 </template>
 
 <script>
-import $ from './libs/utils';
-import Item from './components/item';
-import dailyArticle from './components/daily-article';
+import $ from '@/libs/utils';
+import Item from '@/components/item';
+import dailyArticle from '@/components/daily-article';
 export default {
   name: 'App',
   components: {
